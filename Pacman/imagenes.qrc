@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pacman_1.png</file>
+        <file>pacman_2.png</file>
+        <file>pacman_3.png</file>
+        <file>pacman_4.png</file>
+        <file>tablero_paint.jpg</file>
+        <file>pacman_5.png</file>
+        <file>pacman_6.png</file>
+        <file>pacman_7.png</file>
+        <file>f3_1.png</file>
+        <file>f4_1.png</file>
+        <file>f1_1.png</file>
+        <file>f2_1.png</file>
+        <file>f5_1.png</file>
+    </qresource>
+</RCC>
